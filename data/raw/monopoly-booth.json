@@ -1,0 +1,325 @@
+{
+ "_about": "Charles Booth, Map Descriptive of London Poverty 1898-9 (LSE Library, Public Domain Mark): each London Monopoly street read by ingest/monopoly_booth.py",
+ "classes": [
+  [
+   "lowest",
+   "Lowest class. Vicious, semi-criminal"
+  ],
+  [
+   "very-poor",
+   "Very poor, casual. Chronic want"
+  ],
+  [
+   "poor",
+   "Poor. 18s. to 21s. a week for a moderate family"
+  ],
+  [
+   "mixed",
+   "Mixed. Some comfortable, others poor"
+  ],
+  [
+   "comfortable",
+   "Fairly comfortable. Good ordinary earnings"
+  ],
+  [
+   "middle",
+   "Middle class. Well-to-do"
+  ],
+  [
+   "wealthy",
+   "Upper-middle and upper classes. Wealthy"
+  ],
+  [
+   "uncoloured",
+   "Not classified: offices, clubs, hotels, ministries"
+  ]
+ ],
+ "streets": {
+  "s01": {
+   "sheet": 9,
+   "point": [
+    5811,
+    4244
+   ],
+   "what": "Old Kent Road, south of the Bricklayers Arms",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Old Kent Road: a shopping main road, coloured middle class; many streets behind it poor or very poor",
+   "rank": 6
+  },
+  "s03": {
+   "sheet": 5,
+   "point": [
+    1614,
+    4067
+   ],
+   "what": "Whitechapel Road, by the London Hospital",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Whitechapel Road: a shopping main road, coloured middle class; very poor streets on both sides",
+   "rank": 6
+  },
+  "s06": {
+   "sheet": 3,
+   "point": [
+    4136,
+    6095
+   ],
+   "what": "Islington High Street at the Angel",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "unclear",
+   "note": "Islington High Street at the Angel: red, a shade toward mixed",
+   "rank": 6
+  },
+  "s08": {
+   "sheet": 6,
+   "point": [
+    1767,
+    2439
+   ],
+   "what": "Euston Road, by Euston Square",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "unclear",
+   "note": "Euston Road: red frontage in parts, stations and uncoloured blocks in others",
+   "rank": 6
+  },
+  "s09": {
+   "sheet": 3,
+   "point": [
+    3095,
+    6211
+   ],
+   "what": "Pentonville Road",
+   "class": "mixed",
+   "label": "Mixed. Some comfortable, others poor",
+   "confidence": "unclear",
+   "note": "Pentonville Road: the darker \"mixed\" red, poor streets to the south",
+   "rank": 4
+  },
+  "s11": {
+   "sheet": 6,
+   "point": [
+    1259,
+    5800
+   ],
+   "what": "Pall Mall",
+   "class": "uncoloured",
+   "label": "Not classified: offices, clubs, hotels, ministries",
+   "confidence": "clear",
+   "note": "Pall Mall: gentlemen's clubs, left uncoloured; wealthy houses behind",
+   "rank": null
+  },
+  "s13": {
+   "sheet": 6,
+   "point": [
+    2386,
+    5760
+   ],
+   "what": "Whitehall",
+   "class": "uncoloured",
+   "label": "Not classified: offices, clubs, hotels, ministries",
+   "confidence": "clear",
+   "note": "Whitehall: government offices; only Whitehall Court, a block of flats, is yellow",
+   "rank": null
+  },
+  "s14": {
+   "sheet": 6,
+   "point": [
+    2599,
+    5562
+   ],
+   "what": "Northumberland Avenue",
+   "class": "uncoloured",
+   "label": "Not classified: offices, clubs, hotels, ministries",
+   "confidence": "clear",
+   "note": "Northumberland Avenue: hotels, left uncoloured",
+   "rank": null
+  },
+  "s16": {
+   "sheet": 6,
+   "point": [
+    2949,
+    4632
+   ],
+   "what": "Bow Street, Covent Garden",
+   "class": "mixed",
+   "label": "Mixed. Some comfortable, others poor",
+   "confidence": "unclear",
+   "note": "Bow Street: the police court and opera house; the few homes mixed",
+   "rank": 4
+  },
+  "s18": {
+   "sheet": 6,
+   "point": [
+    1151,
+    4363
+   ],
+   "what": "Great Marlborough Street",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Great Marlborough Street: red",
+   "rank": 6
+  },
+  "s19": {
+   "sheet": 6,
+   "point": [
+    1386,
+    5123
+   ],
+   "what": "Vine Street, off Piccadilly",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "unclear",
+   "note": "Vine Street: a tiny street; its neighbours are red",
+   "rank": 6
+  },
+  "s21": {
+   "sheet": 6,
+   "point": [
+    2599,
+    5257
+   ],
+   "what": "Strand",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Strand: red",
+   "rank": 6
+  },
+  "s23": {
+   "sheet": 6,
+   "point": [
+    4214,
+    4587
+   ],
+   "what": "Fleet Street",
+   "class": "uncoloured",
+   "label": "Not classified: offices, clubs, hotels, ministries",
+   "confidence": "clear",
+   "note": "Fleet Street: newspaper offices and the Temple, left uncoloured",
+   "rank": null
+  },
+  "s24": {
+   "sheet": 6,
+   "point": [
+    2294,
+    5318
+   ],
+   "what": "Trafalgar Square",
+   "class": "uncoloured",
+   "label": "Not classified: offices, clubs, hotels, ministries",
+   "confidence": "clear",
+   "note": "Trafalgar Square: no homes",
+   "rank": null
+  },
+  "s26": {
+   "sheet": 6,
+   "point": [
+    2101,
+    4993
+   ],
+   "what": "Leicester Square",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "unclear",
+   "note": "Leicester Square: red on two sides, theatres uncoloured",
+   "rank": 6
+  },
+  "s27": {
+   "sheet": 6,
+   "point": [
+    1921,
+    5003
+   ],
+   "what": "Coventry Street",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Coventry Street: red",
+   "rank": 6
+  },
+  "s29": {
+   "sheet": 6,
+   "point": [
+    1331,
+    5233
+   ],
+   "what": "Piccadilly",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Piccadilly: red east of the Albany",
+   "rank": 6
+  },
+  "s31": {
+   "sheet": 6,
+   "point": [
+    1121,
+    4593
+   ],
+   "what": "Regent Street",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Regent Street: red",
+   "rank": 6
+  },
+  "s32": {
+   "sheet": 7,
+   "point": [
+    6644,
+    2159
+   ],
+   "what": "Oxford Street",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "Oxford Street: red",
+   "rank": 6
+  },
+  "s34": {
+   "sheet": 7,
+   "point": [
+    6864,
+    2639
+   ],
+   "what": "New Bond Street",
+   "class": "middle",
+   "label": "Middle class. Well-to-do",
+   "confidence": "clear",
+   "note": "New and Old Bond Street: red",
+   "rank": 6
+  },
+  "s37": {
+   "sheet": 7,
+   "point": [
+    5898,
+    3289
+   ],
+   "what": "Park Lane",
+   "class": "wealthy",
+   "label": "Upper-middle and upper classes. Wealthy",
+   "confidence": "clear",
+   "note": "Park Lane: yellow, the top class",
+   "rank": 7
+  },
+  "s39": {
+   "sheet": 7,
+   "point": [
+    6544,
+    3039
+   ],
+   "what": "Mayfair (Hill Street)",
+   "class": "wealthy",
+   "label": "Upper-middle and upper classes. Wealthy",
+   "confidence": "clear",
+   "note": "Mayfair: almost all yellow",
+   "rank": 7
+  }
+ }
+}

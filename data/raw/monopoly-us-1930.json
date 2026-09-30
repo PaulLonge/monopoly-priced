@@ -1,0 +1,140 @@
+{
+ "_about": "IPUMS USA 1930 1% + 5% samples, Atlantic City (CITY 0370): per US Monopoly street, households in the sample and median monthly rent of renters (5+ renters). Aggregates only. Built by ingest/monopoly_us_1930.py.",
+ "citation": "Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams. IPUMS USA: Version 16.0 [dataset]. Minneapolis, MN: IPUMS, 2025. https://doi.org/10.18128/D010.V16.0",
+ "households_in_sample": 1174,
+ "min_renters": 5,
+ "streets": {
+  "s01": {
+   "name": "Mediterranean Avenue",
+   "households": 0,
+   "renters": 0,
+   "rent": null
+  },
+  "s03": {
+   "name": "Baltic Avenue",
+   "households": 6,
+   "renters": 5,
+   "rent": 35
+  },
+  "s06": {
+   "name": "Oriental Avenue",
+   "households": 8,
+   "renters": 6,
+   "rent": 45.0
+  },
+  "s08": {
+   "name": "Vermont Avenue",
+   "households": 18,
+   "renters": 17,
+   "rent": 75
+  },
+  "s09": {
+   "name": "Connecticut Avenue",
+   "households": 14,
+   "renters": 12,
+   "rent": 60.0
+  },
+  "s11": {
+   "name": "St. Charles Place",
+   "households": 11,
+   "renters": 0,
+   "rent": null
+  },
+  "s13": {
+   "name": "States Avenue",
+   "households": 11,
+   "renters": 9,
+   "rent": 80
+  },
+  "s14": {
+   "name": "Virginia Avenue",
+   "households": 38,
+   "renters": 33,
+   "rent": 65
+  },
+  "s16": {
+   "name": "St. James Place",
+   "households": 5,
+   "renters": 1,
+   "rent": null
+  },
+  "s18": {
+   "name": "Tennessee Avenue",
+   "households": 0,
+   "renters": 0,
+   "rent": null
+  },
+  "s19": {
+   "name": "New York Avenue",
+   "households": 3,
+   "renters": 1,
+   "rent": null
+  },
+  "s21": {
+   "name": "Kentucky Avenue",
+   "households": 10,
+   "renters": 8,
+   "rent": 65.0
+  },
+  "s23": {
+   "name": "Indiana Avenue",
+   "households": 8,
+   "renters": 0,
+   "rent": null
+  },
+  "s24": {
+   "name": "Illinois Avenue",
+   "households": 23,
+   "renters": 21,
+   "rent": 40
+  },
+  "s26": {
+   "name": "Atlantic Avenue",
+   "households": 94,
+   "renters": 36,
+   "rent": 60.0
+  },
+  "s27": {
+   "name": "Ventnor Avenue",
+   "households": 8,
+   "renters": 3,
+   "rent": null
+  },
+  "s29": {
+   "name": "Marvin Gardens",
+   "households": 0,
+   "renters": 0,
+   "rent": null
+  },
+  "s31": {
+   "name": "Pacific Avenue",
+   "households": 31,
+   "renters": 23,
+   "rent": 55
+  },
+  "s32": {
+   "name": "North Carolina Avenue",
+   "households": 35,
+   "renters": 3,
+   "rent": null
+  },
+  "s34": {
+   "name": "Pennsylvania Avenue",
+   "households": 15,
+   "renters": 8,
+   "rent": 32.5
+  },
+  "s37": {
+   "name": "Park Place",
+   "households": 0,
+   "renters": 0,
+   "rent": null
+  },
+  "s39": {
+   "name": "Boardwalk",
+   "households": 5,
+   "renters": 5,
+   "rent": 200
+  }
+ }
+}

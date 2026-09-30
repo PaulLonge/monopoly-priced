@@ -1,0 +1,132 @@
+{
+ "Old Kent Road": [
+  51.4914553,
+  -0.0821603,
+  "Old Kent Road, Bermondsey Spa, Old Kent Road, London Borough of Southwark, Greater London, England, SE1 5XG, United Kingdom"
+ ],
+ "Whitechapel Road": [
+  51.5170791,
+  -0.0674812,
+  "Whitechapel Road, St. George in the East, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 1EW, United Kingdom"
+ ],
+ "King's Cross Station": [
+  51.5320734,
+  -0.1236057,
+  "London King's Cross Railway Station, Euston Road, King's Cross, London Borough of Camden, Greater London, England, N1C 4AP, United Kingdom"
+ ],
+ "The Angel, Islington": [
+  51.5324874,
+  -0.1060356,
+  "Angel, Islington High Street, Angel, Islington, London Borough of Islington, Greater London, England, N1 9LQ, United Kingdom"
+ ],
+ "Euston Road": [
+  51.5247178,
+  -0.1385303,
+  "Warren Street, Euston Road, Fitzrovia, London Borough of Camden, Greater London, England, W1T 5PE, United Kingdom"
+ ],
+ "Pentonville Road": [
+  51.5312947,
+  -0.1155095,
+  "Pentonville Road, Pentonville, Angel, Barnsbury, London Borough of Islington, Greater London, England, N1 9NZ, United Kingdom"
+ ],
+ "Pall Mall": [
+  51.506783,
+  -0.1337048,
+  "Pall Mall, St. James's, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1Y 5LU, United Kingdom"
+ ],
+ "Whitehall": [
+  51.5042602,
+  -0.126329,
+  "Whitehall, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1A 2EX, United Kingdom"
+ ],
+ "Northumberland Avenue": [
+  51.5066832,
+  -0.1235725,
+  "Northumberland Avenue, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5DE, United Kingdom"
+ ],
+ "Marylebone Station": [
+  51.5243712,
+  -0.163592,
+  "London Marylebone, Boston Place, Marylebone, City of Westminster, Greater London, England, NW1 6JJ, United Kingdom"
+ ],
+ "Bow Street": [
+  51.513271,
+  -0.1219686,
+  "Bow Street, St Clement Danes, Covent Garden, City of Westminster, Greater London, England, WC2E 7AW, United Kingdom"
+ ],
+ "Marlborough Street": [
+  51.5143833,
+  -0.1388711,
+  "Great Marlborough Street, Soho, City of Westminster, Greater London, England, W1F 7HS, United Kingdom"
+ ],
+ "Strand": [
+  51.5076273,
+  -0.1271061,
+  "Strand, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5EJ, United Kingdom"
+ ],
+ "Fleet Street": [
+  51.5141558,
+  -0.1055056,
+  "Fleet Street, West Smithfield, Blackfriars, City of London, Greater London, England, EC4Y 1PB, United Kingdom"
+ ],
+ "Trafalgar Square": [
+  51.5073978,
+  -0.1282407,
+  "Trafalgar Square, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5DU, United Kingdom"
+ ],
+ "Fenchurch Street Station": [
+  51.5113281,
+  -0.0774191,
+  "London Fenchurch Street, Cooper's Row, Leadenhall Market, Aldgate, City of London, Greater London, England, EC3N 2AU, United Kingdom"
+ ],
+ "Leicester Square": [
+  51.5100192,
+  -0.1298114,
+  "Leicester Square, St. James's, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2H 7LH, United Kingdom"
+ ],
+ "Coventry Street": [
+  51.5102665,
+  -0.1324231,
+  "Coventry Street, St. James's, East Marylebone, Covent Garden, City of Westminster, Greater London, England, W1D 7AG, United Kingdom"
+ ],
+ "Piccadilly": [
+  51.508732,
+  -0.1379406,
+  "Piccadilly, St. James's, Westminster, Mayfair, City of Westminster, Greater London, England, W1J 0DS, United Kingdom"
+ ],
+ "Regent Street": [
+  51.5116775,
+  -0.1393013,
+  "Regent Street, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1B 5SJ, United Kingdom"
+ ],
+ "Oxford Street": [
+  51.5150106,
+  -0.1440975,
+  "Oxford Street, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1C 2DT, United Kingdom"
+ ],
+ "Bond Street": [
+  51.5108549,
+  -0.1429702,
+  "New Bond Street, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1S 2RE, United Kingdom"
+ ],
+ "Liverpool Street Station": [
+  51.5182105,
+  -0.0814269,
+  "London Liverpool Street, Great Eastern Walkway, Bishopsgate Without, Bishopsgate, City of London, Greater London, England, EC2M 3XU, United Kingdom"
+ ],
+ "Park Lane": [
+  51.5084921,
+  -0.154317,
+  "Park Lane, Mayfair, City of Westminster, Greater London, England, W1K 7TR, United Kingdom"
+ ],
+ "Mayfair": [
+  51.5110872,
+  -0.147058,
+  "Mayfair, City of Westminster, Greater London, England, W1K 3DN, United Kingdom"
+ ],
+ "Vine Street": [
+  51.5094763,
+  -0.1371474,
+  "Vine Street, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1J 0DN, United Kingdom"
+ ]
+}

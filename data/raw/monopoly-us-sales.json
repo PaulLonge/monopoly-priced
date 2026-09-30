@@ -1,0 +1,160 @@
+{
+ "_about": "NJ SR1A usable residential sales 2020-2026 YTD, Atlantic City / Margate / Ventnor, by US Monopoly square. Built by ingest/monopoly_us.py.",
+ "min_sales": 5,
+ "squares": {
+  "s01": {
+   "n": 19,
+   "median": 75000,
+   "psf": 86.20689655172414,
+   "year_built": 1966.578947368421,
+   "name": "Mediterranean Avenue"
+  },
+  "s03": {
+   "n": 9,
+   "median": 155000,
+   "psf": 75.92928377153218,
+   "year_built": 1938.4444444444443,
+   "name": "Baltic Avenue"
+  },
+  "s06": {
+   "n": 1,
+   "median": 330000,
+   "psf": null,
+   "year_built": null,
+   "name": "Oriental Avenue"
+  },
+  "s08": {
+   "n": 4,
+   "median": 172579.0,
+   "psf": null,
+   "year_built": null,
+   "name": "Vermont Avenue"
+  },
+  "s09": {
+   "n": 19,
+   "median": 185000,
+   "psf": 122.38996707676313,
+   "year_built": 1957.0555555555557,
+   "name": "Connecticut Avenue"
+  },
+  "s11": {
+   "n": 0,
+   "median": null,
+   "psf": null,
+   "year_built": null,
+   "name": "St. Charles Place"
+  },
+  "s13": {
+   "n": 0,
+   "median": null,
+   "psf": null,
+   "year_built": null,
+   "name": "States Avenue"
+  },
+  "s14": {
+   "n": 6,
+   "median": 174500.0,
+   "psf": 125.34317247987029,
+   "year_built": 1951.6666666666667,
+   "name": "Virginia Avenue"
+  },
+  "s16": {
+   "n": 0,
+   "median": null,
+   "psf": null,
+   "year_built": null,
+   "name": "St. James Place"
+  },
+  "s18": {
+   "n": 10,
+   "median": 130950.0,
+   "psf": 75.04210725818275,
+   "year_built": 1924.9,
+   "name": "Tennessee Avenue"
+  },
+  "s19": {
+   "n": 13,
+   "median": 100000,
+   "psf": 112.63736263736264,
+   "year_built": 1944.3846153846155,
+   "name": "New York Avenue"
+  },
+  "s21": {
+   "n": 8,
+   "median": 110000.0,
+   "psf": 82.67476773170179,
+   "year_built": 1915.25,
+   "name": "Kentucky Avenue"
+  },
+  "s23": {
+   "n": 27,
+   "median": 150000,
+   "psf": 92.5925925925926,
+   "year_built": 1914.3333333333333,
+   "name": "Indiana Avenue"
+  },
+  "s24": {
+   "n": 13,
+   "median": 127500,
+   "psf": 90.42553191489361,
+   "year_built": 1931.5384615384614,
+   "name": "Illinois Avenue"
+  },
+  "s26": {
+   "n": 145,
+   "median": 85000,
+   "psf": 123.85919165580182,
+   "year_built": 1955.5594405594406,
+   "name": "Atlantic Avenue"
+  },
+  "s27": {
+   "n": 83,
+   "median": 90000,
+   "psf": 125.15150008390773,
+   "year_built": 1938.5243902439024,
+   "name": "Ventnor Avenue"
+  },
+  "s29": {
+   "n": 56,
+   "median": 715000.0,
+   "psf": 466.5920119447555,
+   "year_built": 1960.1090909090908,
+   "name": "Marvin Gardens"
+  },
+  "s31": {
+   "n": 153,
+   "median": 204999,
+   "psf": 188.6320754716981,
+   "year_built": 1981.5761589403974,
+   "name": "Pacific Avenue"
+  },
+  "s32": {
+   "n": 9,
+   "median": 171000,
+   "psf": 109.43912448700411,
+   "year_built": 2005.7777777777778,
+   "name": "North Carolina Avenue"
+  },
+  "s34": {
+   "n": 9,
+   "median": 89000,
+   "psf": 76.00341588385994,
+   "year_built": 1966.3333333333333,
+   "name": "Pennsylvania Avenue"
+  },
+  "s37": {
+   "n": 0,
+   "median": null,
+   "psf": null,
+   "year_built": null,
+   "name": "Park Place"
+  },
+  "s39": {
+   "n": 780,
+   "median": 159000.0,
+   "psf": 229.80849056603773,
+   "year_built": 1968.9583333333333,
+   "name": "Boardwalk"
+  }
+ }
+}
