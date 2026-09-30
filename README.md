@@ -13,14 +13,14 @@ The story, with the interactive boards and a Monopoly guessing game: **[axisless
 ## What it found
 
 - **London today.** The board's order and real prices still broadly agree at the top: Mayfair and Park Lane are
-  dear. The middle has reshuffled: homes near Whitehall and Pall Mall have soared, Leicester Square and Marlborough
+  expensive. The middle has reshuffled: homes near Whitehall and Pall Mall have soared, Leicester Square and Marlborough
   Street have fallen. The greens (Regent, Oxford and Bond Street) are almost all shops, so they are estimated from
   the postcode districts around them.
 - **London in 1995-97**, the first years of Land Registry records: the board matched real prices about as well then
   as now (rank correlation 0.62 then, 0.58 now).
 - **London in 1898**, from Charles Booth's poverty map: only Mayfair and Park Lane were "wealthy". Old Kent Road and
   Whitechapel Road were busy shopping roads coloured middle class, with some of London's poorest streets behind them.
-- **Atlantic City today.** Marvin Gardens (really Marven Gardens, in Margate and Ventnor) is the dearest by far. The
+- **Atlantic City today.** Marvin Gardens (really Marven Gardens, in Margate and Ventnor) is the most expensive by far. The
   Boardwalk is mostly condos, and the yellows are among the cheapest.
 - **Atlantic City in 1930**, five years before the game: the board barely matched rents even then. Only Boardwalk,
   at the top, was right.
